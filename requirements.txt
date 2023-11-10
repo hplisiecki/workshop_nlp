@@ -1,0 +1,7 @@
+pandas
+nltk
+regex
+tqdm
+scikit-learn
+matplotlib
+gensim
